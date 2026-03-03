@@ -2,7 +2,7 @@
 
 > **Cybersecurity & IT Specialist** · SOC Operations · Penetration Testing · Network Security · Medical OT
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00e5ff?style=for-the-badge&logo=github)](https://YOUR-USERNAME.github.io)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00e5ff?style=for-the-badge&logo=github)](https://ezzk9432.github.io)
 [![Made with](https://img.shields.io/badge/Made_with-HTML_CSS_JS-7c3aed?style=for-the-badge)]()
 [![GSAP](https://img.shields.io/badge/Animations-GSAP_3.12-00ff88?style=for-the-badge)]()
 
